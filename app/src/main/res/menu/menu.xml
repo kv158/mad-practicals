@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/red"
+        android:title="RED" />
+    <item android:id="@+id/green"
+        android:title="GREEN" />
+    <item android:id="@+id/blue"
+        android:title="BLUE" />
+    <item android:id="@+id/black"
+        android:title="BLACK" />
+    <item android:id="@+id/wdemoe"
+        android:title="WDEMOE" />
+</menu>

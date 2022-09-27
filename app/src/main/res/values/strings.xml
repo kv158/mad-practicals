@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">krushal vataliya</string>
+    <string-array name="kvlist">
+        <item>select</item>
+        <item>wallpaper1</item>
+        <item>wallpaper2</item>
+        <item>wallpaper3</item>
+        <item>wallpaper4</item>
+        <item>wallpaper5</item>
+    </string-array>
+    <string name="title_activity_menu_color">MenuColor</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
